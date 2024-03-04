@@ -5,9 +5,7 @@ const App = () => {
   const [populationData, setPopulationData] = useState(null);
 
   useEffect(() => {
-
     const fetchPopulationData = async () => {
-     
       const response = await fetch("/public/Population.json");
       const data = await response.json();
       setPopulationData(data);
@@ -42,12 +40,12 @@ const App = () => {
             {
               label: "Male",
               data: malePercentages,
-              backgroundColor: "blue",
+              backgroundColor: "#ed7d31",
             },
             {
               label: "Female",
               data: femalePercentages.map((percentage) => -percentage), // Negative to make it appear left of the y-axis
-              backgroundColor: "pink",
+              backgroundColor: "#5b9bd5",
             },
           ],
         },
@@ -84,11 +82,8 @@ const App = () => {
     <div>
       <h2 className="text-center">Population Pyramid Chart</h2>
       <canvas id="population-pyramid-chart" width="600" height="200"></canvas>
-      
     </div>
   );
 };
 
 export default App;
-
-
