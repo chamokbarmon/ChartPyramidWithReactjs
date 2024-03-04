@@ -4,7 +4,17 @@ import Chart from "chart.js/auto";
 const App = () => {
   const [populationData, setPopulationData] = useState(null);
 
- 
+  useEffect(() => {
+
+    const fetchPopulationData = async () => {
+     
+      const response = await fetch("/public/Population.json");
+      const data = await response.json();
+      setPopulationData(data);
+    };
+
+    fetchPopulationData();
+  }, []);
 
   useEffect(() => {
     if (populationData) {
