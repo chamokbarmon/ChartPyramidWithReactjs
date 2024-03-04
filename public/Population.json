@@ -1,0 +1,171 @@
+[
+    {
+      "ageGroup": "0-4",
+      "gender": "male",
+      "population": 1000000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "0-4",
+      "gender": "female",
+      "population": 950000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "5-9",
+      "gender": "male",
+      "population": 1100000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "5-9",
+      "gender": "female",
+      "population": 1050000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "10-14",
+      "gender": "male",
+      "population": 1050000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "10-14",
+      "gender": "female",
+      "population": 1000000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "15-19",
+      "gender": "male",
+      "population": 1200000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "15-19",
+      "gender": "female",
+      "population": 1150000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "20-24",
+      "gender": "male",
+      "population": 1300000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "20-24",
+      "gender": "female",
+      "population": 1250000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "25-29",
+      "gender": "male",
+      "population": 1400000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "25-29",
+      "gender": "female",
+      "population": 1350000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "30-34",
+      "gender": "male",
+      "population": 1450000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "30-34",
+      "gender": "female",
+      "population": 1400000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "35-39",
+      "gender": "male",
+      "population": 1400000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "35-39",
+      "gender": "female",
+      "population": 1350000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "40-44",
+      "gender": "male",
+      "population": 1300000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "40-44",
+      "gender": "female",
+      "population": 1250000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "45-49",
+      "gender": "male",
+      "population": 1200000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "45-49",
+      "gender": "female",
+      "population": 1150000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "50-54",
+      "gender": "male",
+      "population": 1100000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "50-54",
+      "gender": "female",
+      "population": 1050000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "55-59",
+      "gender": "male",
+      "population": 1000000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "55-59",
+      "gender": "female",
+      "population": 950000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "60-64",
+      "gender": "male",
+      "population": 900000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "60-64",
+      "gender": "female",
+      "population": 850000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "65+",
+      "gender": "male",
+      "population": 700000,
+      "totalPopulation": 20000000
+    },
+    {
+      "ageGroup": "65+",
+      "gender": "female",
+      "population": 750000,
+      "totalPopulation": 20000000
+    }
+  ]
+  
