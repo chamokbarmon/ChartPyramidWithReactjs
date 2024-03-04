@@ -83,7 +83,8 @@ const App = () => {
   return (
     <div>
       <h2 className="text-center">Population Pyramid Chart</h2>
-      <canvas id="population-pyramid-chart" width="400" height="200"></canvas>
+      <canvas id="population-pyramid-chart" width="600" height="200"></canvas>
+      
     </div>
   );
 };
